@@ -1,0 +1,5 @@
+@import url('../../fonts/lexend-deca/style.css');
+
+.Toastify__toast-body > div:last-child {
+    font-family: 'Lexend Deca Medium';
+}

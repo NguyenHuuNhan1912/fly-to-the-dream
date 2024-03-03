@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Jambono Black";
+    src: url("./Jambono-Black.ttf") format("truetype");
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Jambono Medium";
+    src: url("./Jambono-Medium.ttf") format("truetype");
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Jambono Light";
+    src: url("./Jambono-Light.ttf") format("truetype");
+    font-style: normal;
+    font-display: swap;
+}

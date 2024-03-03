@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Lexend Deca Light";
+    src: url('./LexendDeca-Light.ttf') format("truetype");
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Lexend Deca Medium";
+    src: url('./LexendDeca-Medium.ttf') format("truetype");
+    font-style: normal;
+    font-display: swap;
+}
